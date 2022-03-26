@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="hint_search"> search by country name </string>
+
+
+
+</resources>
